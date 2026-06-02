@@ -1,3 +1,17 @@
+# ed25519-donna
+
+## Kinet Fork
+
+This is a Kinet Industries fork of the canonical upstream:
+- **Upstream**: https://github.com/floodyberry/ed25519-donna
+- **Pinned commit**: `eda4181`
+- **Pinned tag**: `v1.0.0`
+- **License**: public domain (preserved from upstream — see `LICENSE-NOTICE.md`)
+- **Kinet extensions**: NONE (verbatim snapshot of upstream).
+- **Tag policy**: track upstream semver verbatim. Divergence (if ever required) signaled by next-minor bump, NOT prerelease suffixes.
+
+---
+
 [ed25519](http://ed25519.cr.yp.to/) is an 
 [Elliptic Curve Digital Signature Algortithm](http://en.wikipedia.org/wiki/Elliptic_Curve_DSA), 
 developed by [Dan Bernstein](http://cr.yp.to/djb.html), 
